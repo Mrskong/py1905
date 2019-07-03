@@ -22,5 +22,3 @@ echo "change path aaa/bbb/$floder"
 echo "param: $*"
 cd aaa/bbb/$floder
 
-echo 'print current file'
-
